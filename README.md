@@ -7,7 +7,7 @@ A simple Login and Registration system in PHP
 1. Open XAMPP 
 2. Start Apache and MySQL
 3. Open Phpmyadmin
-4. Import the Database Provided
+4. Import the Database Provided (phplogin.sql)
 
 ## Default Credentials
 
