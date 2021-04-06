@@ -11,8 +11,8 @@ A simple Login and Registration system in PHP
 
 ## Default Credentials
 
-## username: test
-## password: test
+### Username: test
+### Password: test
 
 ## REGISTER
 ![image](https://user-images.githubusercontent.com/56199413/113684612-0aed5280-96e3-11eb-866a-dc2228346000.png)
