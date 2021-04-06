@@ -1,6 +1,19 @@
 # Login-And-Registration-System-PHP
 
 A simple Login and Registration system in PHP 
+
+## How to Configure
+
+1. Open XAMPP 
+2. Start Apache and MySQL
+3. Open Phpmyadmin
+4. Import the Database Provided
+
+## Default Credentials
+
+## username: test
+## password: test
+
 ## REGISTER
 ![image](https://user-images.githubusercontent.com/56199413/113684612-0aed5280-96e3-11eb-866a-dc2228346000.png)
 ## LOGIN
